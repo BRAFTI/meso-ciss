@@ -6,15 +6,15 @@ The included protocol sheets are direct printouts from Siemens scanners, but the
 
 ### Sequences Included
 
-- **3D MR Myelography**  
-  *Sagittal fat-saturated 3D T2-SPACE*
-  *compressed-sensing acceleration*
-  *0.7 mm3 isotropic resolution*
-  *For detecting SLECs*
+- **3D MR Myelography**
+  - *Sagittal fat-saturated 3D T2-SPACE*
+  - *Compressed-sensing acceleration*
+  - *0.7 mm3 isotropic resolution*
+  - *For detecting SLECs*
 
-- **Sagittal meso-scale 3D CISS**  
-  *0.5 mm3 isotropic resolution*
-  *For dural defect detection*
+- **Sagittal meso-scale 3D CISS**
+  - *0.5 mm3 isotropic resolution*
+  - *For dural defect detection*
 
 
 
