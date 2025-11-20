@@ -17,5 +17,10 @@ The included protocol sheets are direct printouts from Siemens scanners, but the
   - *For dural defect detection*
 
 
+If you use or adapt this protocol, please cite:
+
+Wegscheid ML, Chatterjee AR, Raji CA, Reis MN, Fleege NP, Azad SN, Ogunlade J, Vellimana AK, Goyal MS, Nazeri A.
+*Mesoscale CISS Imaging for the Detection of Dural Defects in Spinal CSF Leaks.*
+medRxiv. 2025 Jul 16:2025-07. https://doi.org/10.1101/2025.07.14.25331467
 
 
